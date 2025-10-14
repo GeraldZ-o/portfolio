@@ -8,7 +8,7 @@
 
 Description detail here:
 
-*[Windows EXE]()
-*[Mac App]()
-*[Linux Executable]()
-*[Source Code]()
+* [Windows EXE]()
+* [Mac App]()
+* [Linux Executable]()
+* [Source Code]()
