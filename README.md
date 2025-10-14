@@ -8,7 +8,7 @@
 
 Description detail here:
 
-* [Windows EXE]()
+* [Windows EXE](https://github.com/GeraldZ-o/portfolio/blob/main/src/SpaceGame/windows-amd64.zip)
 * [Mac App](https://github.com/GeraldZ-o/portfolio/blob/main/src/SpaceGame/macos-aarch64.zip)
 * [Linux Executable]()
 * [Source Code]()
