@@ -5,7 +5,7 @@
 ### Space Invader Asteroids but Slightly Worse
 October 21st, 2025
 
-![SpaceGame](https://github.com/GeraldZ-o/portfolio/blob/main/images/SpaceGame.png?raw=true)
+![SpaceGame](https://github.com/GeraldZ-o/portfolio/blob/main/images/spacegame.png?raw=true)
 
 Description detail here:
 So imagine, if you will, every space shooter game ever. Now picture that, but just a little bit not good. That's what this is.
