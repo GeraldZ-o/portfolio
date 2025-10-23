@@ -8,6 +8,7 @@ October 21st, 2025
 ![SpaceGame](https://github.com/GeraldZ-o/portfolio/blob/main/images/spacegame.png?raw=true)
 
 **“Blast rocks, steal loot, and rock the cosmos — one asteroid at a time.”** - ChatGPT (Banger Quote btw)
+
 Space is full of rocks. You’ve got rockets.
 
 You do the math.
