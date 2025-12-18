@@ -1,5 +1,7 @@
 # Aidan's Game Dev Portfolio 2025
 
+## Email : Alstephen11235@gmail.com
+
 ## Certifications
 * [Certifcation Folder](https://github.com/GeraldZ-o/portfolio/tree/main/certificates)
 
