@@ -31,7 +31,7 @@ October-December 2025
 
 I worked on most of the movement and collision detection. My co-creator Garrett Nelson, did all of the art, and background coding
 
-![Echoes](https://github.com/GeraldZ-o/portfolio/blob/main/images/Echoes.png)
+![Echoes](https://github.com/GeraldZ-o/portfolio/blob/main/images/Echoes.png?raw=true)
 
 **"Wow, this game looks kinda like awesome and stuff."** - Garrett, my co-creator
 
