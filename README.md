@@ -21,5 +21,13 @@ Join the Rock-It Raiders, an outlaw crew of cosmic demolition experts blasting a
 * [Source Code](https://github.com/GeraldZ-o/portfolio/tree/main/src/SpaceGame)
 
 ### Echoes of the Four
+#### Made with Garrett Nelson
 October-December 2025
 
+![Echoes](https://github.com/GeraldZ-o/portfolio/blob/main/images/spacegame.png?raw=true)
+
+**"Wow, this game looks kinda like awesome and stuff."** - Garrett, my co-creator
+
+The elements remember your falls.
+
+Do you have the resolve to rise above them?
