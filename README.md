@@ -24,7 +24,7 @@ Join the Rock-It Raiders, an outlaw crew of cosmic demolition experts blasting a
 #### Made with Garrett Nelson
 October-December 2025
 
-![Echoes](https://github.com/GeraldZ-o/portfolio/blob/main/images/spacegame.png?raw=true)
+![Echoes](https://github.com/GeraldZ-o/portfolio/blob/main/images/Echoes.png)
 
 **"Wow, this game looks kinda like awesome and stuff."** - Garrett, my co-creator
 
