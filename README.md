@@ -1,5 +1,8 @@
 # Aidan's Game Dev Portfolio 2025
 
+## Certifications
+* [Certifcation Folder](https://github.com/GeraldZ-o/portfolio/tree/main/certificates)
+
 ## Term 1 Projects
 
 ### Rock-It Raiders (rocket + rocks 😎)
